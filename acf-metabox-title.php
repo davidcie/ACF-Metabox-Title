@@ -3,7 +3,7 @@
 	Plugin Name: ACF Metabox Title
 	Plugin URI: https://github.com/davidcie/ACF-Metabox-Title
 	Description: Allows you to specify a separate title for metaboxes.
-	Version: 1.0.0
+	Version: 1.1.0
 	Author: davidcie
 	Author URI: https://github.com/davidcie/
 	GitHub Plugin URI: https://github.com/davidcie/ACF-Metabox-Title
